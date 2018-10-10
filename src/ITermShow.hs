@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 module ITermShow
-    ( displayImage
-    , displayImageBuilder
+    ( displayImageBuilder
+    , displayImage
     , displayImageString
     ) where
 
