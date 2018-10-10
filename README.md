@@ -1,7 +1,7 @@
 # iterm-show
 
 `iterm-show` is a Haskell library for displaying inline documents in some
-terminals, including iTerm.
+terminals, including iTerm and hterm.
 
 # it2-show
 
