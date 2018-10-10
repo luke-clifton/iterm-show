@@ -13,15 +13,14 @@ maintainer:          lukec@themk.net
 copyright:           (c) 2018 Luke Clifton
 category:            Development
 build-type:          Simple
-extra-source-files:  ChangeLog.md
+extra-source-files:
+  ChangeLog.md,
+  README.md,
+  doc/*.png
 cabal-version:       >=1.10
 source-repository head
   type: git
   location: https://github.com/luke-clifton/iterm-show
-
-extra-source-files:
-  README.md
-  doc/*
 
 library
   exposed-modules:     ITermShow
